@@ -10,5 +10,6 @@
 
 
 # Tools
+* https://missing.csail.mit.edu/ The missing CS Semester
 * Anaconda, PyCharm / VSCode
 * Use linux / docker
